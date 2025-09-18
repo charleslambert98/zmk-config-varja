@@ -1,0 +1,6 @@
+if SHIELD_VARJA
+
+config ZMK_KEYBOARD_NAME
+default "varja"
+
+endif
