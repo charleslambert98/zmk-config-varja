@@ -1,6 +1,6 @@
 #include <behaviors.dtsi>
-#include <keys.h>
-#include <bt.h>
+#include keys.h"
+#include "bt.h"
 
 /{
     keymap{
